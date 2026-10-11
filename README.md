@@ -14,7 +14,7 @@ I enjoy building things that work end to end: designing the data, writing the lo
 ## Projects
 
 - **[University Records Database](https://github.com/pedronatanie1/university-records-database)** (SQL Server, T-SQL): a normalised database for students, courses, modules and enrolments, with constraints, constraint tests, joins, aggregates, subqueries, CTEs, views, an index and transactions that roll back on failure.
-- **[Student Manager](https://github.com/pedronatanie1/StudentManager.git)**(C#, .NET, LINQ): a console application using object-oriented design to manage students, modules and grades, with input validation, LINQ search, filtering and sorting, and statistics. 
+- **[Student Manager](https://github.com/pedronatanie1/StudentManager.git)** (C#, .NET, LINQ): a console application using object-oriented design to manage students, modules and grades, with input validation, LINQ search, filtering and sorting, and statistics. 
 
 <!-- Uncomment once the training log repo has its first commit:
 ## Currently building

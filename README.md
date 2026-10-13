@@ -18,7 +18,7 @@ I enjoy building things that work end to end: designing the data, writing the lo
 
 ## Currently building
 
-- **[Training](Loghttps://github.com/pedronatanie1/training-log.git)** (C#, SQL Server): a layered application for logging workouts, with personal records and progress reports. I'm building it for my own training.
+- **[Training Log App](https://github.com/pedronatanie1/training-log.git)** (C#, SQL Server): a layered application for logging workouts, with personal records and progress reports. I'm building it for my own training.
 
 ## Learning and next steps
 
